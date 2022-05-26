@@ -1,0 +1,12 @@
+
+
+{
+  "name": "ile-de-france",
+  "country": "France",
+  "geometry": {
+    "type": "polygon",
+    "coordinates": []
+  }
+}
+
+

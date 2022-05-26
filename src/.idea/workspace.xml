@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e4e5d22-88ea-478a-92e7-e6be0c5880c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/profinling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Categorie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MOCK_DATA (1).csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MOCK_DATA (2).csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MOCK_DATA (3).csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MOCK_DATA (4).csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MOCK_DATA.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Profiling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Profiling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statiqueprofiling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adult.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clustring.py" beforeDir="false" afterPath="$PROJECT_DIR$/clustring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collaborative.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kmeans_numpy_improved.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/letsee.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/onLineCheck.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilage.py" beforeDir="false" afterPath="$PROJECT_DIR$/profilage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/propertyBooking.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommendation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/service.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26pYzCtQyz2Vt0cYFvjbg7bo8mH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e4e5d22-88ea-478a-92e7-e6be0c5880c4" name="Changes" comment="" />
+      <created>1648122256319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648122256319</updated>
+    </task>
+    <servers />
+  </component>
+</project>
